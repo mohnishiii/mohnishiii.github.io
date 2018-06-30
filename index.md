@@ -1,10 +1,10 @@
-## TITLE!!!!
+## Madoka Ohnishi
 
 **Affiliation:**  
 The Graduate School of Humanities and Sciences, Tokyo Woman’s Christian University.  
 **Mail:**  
 madokao(AT)odalab.org  
-(AT) -> @
+(AT) -> @  
 **Current:**  
 Doctoral Degree Course  
 **Supervisor:**  
@@ -14,16 +14,19 @@ Reading, Object recognition, letter recognition, readability, legibility, low-vi
 [Research Gate](https://www.researchgate.net/profile/Madoka_Ohnishi)  
 
 ### Education and qualifications  
-2015 - Present	Tokyo Woman’s Christian University  
-			The Graduate School of Humanities and Sciences  
-			Doctoral Degree Course  
-			Supervisor: Professor Koichi Oda  
+2015 - Present  
+Tokyo Woman’s Christian University  
+The Graduate School of Humanities and Sciences  
+Doctoral Degree Course  
+Supervisor: Professor Koichi Oda  
   
-2013 - 2014		Tokyo Woman’s Christian University  
-			MA Humanities and Sciences   
+2013 - 2014  
+Tokyo Woman’s Christian University  
+MA Humanities and Sciences   
   
-2007 - 2011		Tokyo Woman’s Christian University  
-			BA Culture and Communication  
+2007 - 2011  
+Tokyo Woman’s Christian University  
+BA Culture and Communication  
 
 ### Works  
 **Articles**
