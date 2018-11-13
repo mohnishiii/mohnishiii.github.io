@@ -1,7 +1,7 @@
 ## Madoka Ohnishi
 
 **Affiliation:**  
-IdeaLab inc.   
+IdeaLab inc.  
 **Mail:**  
 madokao(AT)odalab.org  
 (AT) -> @  
