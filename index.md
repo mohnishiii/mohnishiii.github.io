@@ -1,8 +1,7 @@
 ## Madoka Ohnishi
 
 **Affiliation:**  
-IdeaLab inc. <br>
-The Graduate School of Humanities and Sciences, Tokyo Woman’s Christian University.  
+IdeaLab inc.
 **Mail:**  
 madokao(AT)odalab.org  
 (AT) -> @  
