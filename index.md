@@ -1,7 +1,7 @@
 ## Madoka Ohnishi
 
 **Affiliation:**  
-IdeaLab inc.
+IdeaLab inc. <br>
 The Graduate School of Humanities and Sciences, Tokyo Woman’s Christian University.  
 **Mail:**  
 madokao(AT)odalab.org  
@@ -16,7 +16,7 @@ Reading, Object recognition, letter recognition, readability, legibility, low-vi
 2015 - 2018  
 Tokyo Woman’s Christian University  
 The Graduate School of Humanities and Sciences  
-Doctoral Degree Course  
+Doctoral Degree Course 
 Supervisor: Professor Koichi Oda  
   
 2013 - 2014  
