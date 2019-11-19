@@ -1,7 +1,7 @@
 ## Madoka Ohnishi
 
 **Affiliation:**  
-[IdeaLab inc.](https://idealab.co.jp)  
+IdeaLab Inc. [Website](https://idealab.co.jp)  
 Tokyo Woman's Christian Uninversity  
 **Mail:**  
 madokao(AT)lab.twcu.ac.jp  
