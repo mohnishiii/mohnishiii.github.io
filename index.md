@@ -1,15 +1,18 @@
 ## Madoka Ohnishi
 
 **Affiliation:**  
-IdeaLab inc.  
+[IdeaLab inc.](https://idealab.co.jp)  
+Tokyo Woman's Christian Uninversity  
 **Mail:**  
-madokao(AT)odalab.org  
+madokao(AT)lab.twcu.ac.jp  
 (AT) -> @  
 **Current:**  
 Researcher   
 **Research Interests:**  
 Reading, Object recognition, letter recognition, readability, legibility, low-vision...  
 [Research Gate](https://www.researchgate.net/profile/Madoka_Ohnishi)  
+<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0001-7950-0320" href="https://orcid.org/0000-0001-7950-0320" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0001-7950-0320</a></div>
+
 
 ### Education and qualifications  
 2015 - 2018  
@@ -32,6 +35,8 @@ BA Culture and Communication
 
 - <u>Ohnishi, M.</u>, Oda, K. (2017). [The Effect of Style and Weight on the Readability of Japanese Fonts : A Study of Reading Evaluations with Standard Off-the-shelf Fonts.](https://www.jstage.jst.go.jp/article/jieij/101/10/101_474/_pdf/-char/ja)
 　_Journal of the illuminating engineering institute of Japan, 101_, 474-483. (in Japanese)
+ 
+- Hayashi, D., & <u>Ohnishi, M.</u> (2019). [Influence of Multiple Types of Proximity on the Degree of Visual Crowding Effects Within a Single Gap Detection Task.](https://journals.sagepub.com/doi/full/10.1177/2041669519837263) _i-Perception, 10(2)_, 2041669519837263.
 
 <div style="text-align: right;">
 etc...
