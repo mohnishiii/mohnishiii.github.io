@@ -38,6 +38,8 @@ BA Culture and Communication
  
 - Hayashi, D., & <u>Ohnishi, M.</u> (2019). [Influence of Multiple Types of Proximity on the Degree of Visual Crowding Effects Within a Single Gap Detection Task.](https://journals.sagepub.com/doi/full/10.1177/2041669519837263) _i-Perception, 10(2)_, 2041669519837263.
 
+- <u>Ohnishi, M.</u>, Otsukuni, T., Takahashi, A., Sugiyama, M., Hirakimoto, M., Ogawa, S., Suzuki, A., Oshima, Y., Sheu, CF., Oda, K. (2020). [Effects of luminance contrast and character size on reading speed.](https://www.sciencedirect.com/science/article/pii/S0042698919302111) _Vision Research, 166_, 52-59. 
+
 <div style="text-align: right;">
 etc...
 </div>
