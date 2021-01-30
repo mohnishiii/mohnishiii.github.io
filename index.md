@@ -28,6 +28,17 @@ MA Humanities and Sciences
 Tokyo Woman’s Christian University  
 BA Culture and Communication  
 
+
+### Classes  
+2019 -   
+コミュニケーション研究法入門 @ Communication, Tokyo Woman's Christian University  
+コミュニケーション研究法実習(実験) @ Communication, Tokyo Woman's Christian University  
+デザイン心理学(聴覚) @ Tokyo Woman's Christian University  
+
+2019 - 2020  
+デザイン心理学(視覚) @ Tokyo Woman's Christian University
+
+
 ### Works  
 **Articles**
 - <u>Ohnishi, M.</u>, Oda, K. (2020). [Unresolvable Pixels Contribute to Character Legibility: Another Reason Why High-Resolution Images Appear Clearer](https://doi.org/10.1177/2041669520981102) _i-Perception, 11(6)_, 2041669520981102. 
