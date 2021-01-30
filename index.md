@@ -1,13 +1,12 @@
 ## Madoka Ohnishi
 
-**Affiliation:**  
-AI Lab, micware Co.,Ltd.  
+**Affiliation:**   
 Tokyo Woman's Christian Uninversity  
 **Mail:**  
 madokao(AT)lab.twcu.ac.jp  
 (AT) -> @  
 **Current:**  
-Researcher   
+Part-time teacher   
 **Research Interests:**  
 Reading, Object recognition, letter recognition, readability, legibility, low-vision...  
 [Research Gate](https://www.researchgate.net/profile/Madoka_Ohnishi)  
@@ -31,14 +30,17 @@ BA Culture and Communication
 
 ### Works  
 **Articles**
-- Oda, K., <u>Ohnishi, M.</u>, Otsukuni, T., Takahashi, A., Kawamura, S., & Suzuki, A. (2015). Influence of Aspect Ratio and Character Spacing on the Readability of Japanese Fonts. _In The 1st International Conference on Advanced Imaging_, 486–489. 
+- <u>Ohnishi, M.</u>, Oda, K. (2020). [Unresolvable Pixels Contribute to Character Legibility: Another Reason Why High-Resolution Images Appear Clearer](https://doi.org/10.1177/2041669520981102) _i-Perception, 11(6)_, 2041669520981102. 
+
+- <u>Ohnishi, M.</u>, Otsukuni, T., Takahashi, A., Sugiyama, M., Hirakimoto, M., Ogawa, S., Suzuki, A., Oshima, Y., Sheu, CF., Oda, K. (2020). [Effects of luminance contrast and character size on reading speed.](https://www.sciencedirect.com/science/article/pii/S0042698919302111) _Vision Research, 166_, 52-59. 
+
+- Hayashi, D., & <u>Ohnishi, M.</u> (2019). [Influence of Multiple Types of Proximity on the Degree of Visual Crowding Effects Within a Single Gap Detection Task.](https://journals.sagepub.com/doi/full/10.1177/2041669519837263) _i-Perception, 10(2)_, 2041669519837263.
 
 - <u>Ohnishi, M.</u>, Oda, K. (2017). [The Effect of Style and Weight on the Readability of Japanese Fonts : A Study of Reading Evaluations with Standard Off-the-shelf Fonts.](https://www.jstage.jst.go.jp/article/jieij/101/10/101_474/_pdf/-char/ja)
 　_Journal of the illuminating engineering institute of Japan, 101_, 474-483. (in Japanese)
  
-- Hayashi, D., & <u>Ohnishi, M.</u> (2019). [Influence of Multiple Types of Proximity on the Degree of Visual Crowding Effects Within a Single Gap Detection Task.](https://journals.sagepub.com/doi/full/10.1177/2041669519837263) _i-Perception, 10(2)_, 2041669519837263.
+- Oda, K., <u>Ohnishi, M.</u>, Otsukuni, T., Takahashi, A., Kawamura, S., & Suzuki, A. (2015). Influence of Aspect Ratio and Character Spacing on the Readability of Japanese Fonts. _In The 1st International Conference on Advanced Imaging_, 486–489. 
 
-- <u>Ohnishi, M.</u>, Otsukuni, T., Takahashi, A., Sugiyama, M., Hirakimoto, M., Ogawa, S., Suzuki, A., Oshima, Y., Sheu, CF., Oda, K. (2020). [Effects of luminance contrast and character size on reading speed.](https://www.sciencedirect.com/science/article/pii/S0042698919302111) _Vision Research, 166_, 52-59. 
 
 <div style="text-align: right;">
 etc...
