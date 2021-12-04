@@ -30,6 +30,9 @@ BA Culture and Communication
 
 
 ### Classes  
+2021 -   
+ユニバーサルデザイン(心理物理)@ Tokyo Woman's Christian University
+
 2019 -   
 コミュニケーション研究法入門 @ Communication, Tokyo Woman's Christian University  
 コミュニケーション研究法実習(実験) @ Communication, Tokyo Woman's Christian University  
@@ -41,6 +44,8 @@ BA Culture and Communication
 
 ### Works  
 **Articles**
+- <u>Ohnishi, M.</u>, Oda, K. (2021). [The effect of character stroke width on legibility: The relationship between duty ratio and contrast threshold](https://doi.org/10.1016/j.visres.2021.03.006) _Vision Research, 185_, 1-8.
+
 - <u>Ohnishi, M.</u>, Oda, K. (2020). [Unresolvable Pixels Contribute to Character Legibility: Another Reason Why High-Resolution Images Appear Clearer](https://doi.org/10.1177/2041669520981102) _i-Perception, 11(6)_, 2041669520981102. 
 
 - <u>Ohnishi, M.</u>, Otsukuni, T., Takahashi, A., Sugiyama, M., Hirakimoto, M., Ogawa, S., Suzuki, A., Oshima, Y., Sheu, CF., Oda, K. (2020). [Effects of luminance contrast and character size on reading speed.](https://www.sciencedirect.com/science/article/pii/S0042698919302111) _Vision Research, 166_, 52-59. 
