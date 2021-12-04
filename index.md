@@ -1,11 +1,13 @@
 ## Madoka Ohnishi
 
 **Affiliation:**   
+Fenrir Inc.  
 Tokyo Woman's Christian Uninversity  
 **Mail:**  
 madokao(AT)lab.twcu.ac.jp  
 (AT) -> @  
 **Current:**  
+UX Researcher  
 Part-time teacher   
 **Research Interests:**  
 Reading, Object recognition, letter recognition, readability, legibility, low-vision...  
