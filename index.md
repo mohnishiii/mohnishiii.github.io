@@ -33,15 +33,15 @@ BA Culture and Communication
 
 ### Classes  
 2021 -   
-ユニバーサルデザイン(心理物理)@ Tokyo Woman's Christian University
+ユニバーサルデザイン(心理物理)@ Tokyo Woman's Christian University 
 
 2019 -   
-コミュニケーション研究法入門 @ Communication, Tokyo Woman's Christian University  
-コミュニケーション研究法実習(実験) @ Communication, Tokyo Woman's Christian University  
-デザイン心理学(聴覚) @ Tokyo Woman's Christian University  
-
-2019 - 2020  
 デザイン心理学(視覚) @ Tokyo Woman's Christian University
+デザイン心理学(聴覚) @ Tokyo Woman's Christian University 
+
+2019 - 2021  
+コミュニケーション研究法入門 @ Communication, Tokyo Woman's Christian University  
+コミュニケーション研究法実習(実験) @ Communication, Tokyo Woman's Christian University 
 
 
 ### Works  
