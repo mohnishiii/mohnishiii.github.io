@@ -4,7 +4,7 @@
 Fenrir Inc.  
 Tokyo Woman's Christian Uninversity  
 **Mail:**  
-madokao(AT)lab.twcu.ac.jp  
+madokao(AT)cis.twcu.ac.jp  
 (AT) -> @  
 **Current:**  
 UX Researcher  
