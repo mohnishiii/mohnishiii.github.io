@@ -32,11 +32,15 @@ BA Culture and Communication
 
 
 ### Classes  
+2023 -    
+特別支援教育／介護等体験指導 @ Komazawa University 
+
 2021 -   
 ユニバーサルデザイン(心理物理)@ Tokyo Woman's Christian University 
 
 2019 -   
-デザイン心理学(視覚)・デザイン心理学(聴覚) @ Tokyo Woman's Christian University 
+デザイン心理学(視覚) @ Tokyo Woman's Christian University 
+デザイン心理学(聴覚) @ Tokyo Woman's Christian University 
 
 2019 - 2021  
 コミュニケーション研究法入門 @ Communication, Tokyo Woman's Christian University  
